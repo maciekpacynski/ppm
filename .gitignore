@@ -1,0 +1,7 @@
+# Nigdy nie publikować hasła, soli ani plików klientów
+haslo_ppm.txt
+haslo_ppm.salt
+sekrety/
+wyniki/
+PPM_*.json
+*.csv
